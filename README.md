@@ -42,4 +42,4 @@ No installation required, just copy the script to a folder with logs and it will
 
 ## Author
 
-* **Tomáš Kender** - [PurpleBooth](https://github.com/tomaskender)
+* [Tomáš Kender](https://github.com/tomaskender)
